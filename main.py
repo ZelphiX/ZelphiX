@@ -175,4 +175,3 @@ async def removehuggif(ctx, gif = None):
        
         
 
-client.run('NjI2MTcyNDQ3Njc0MzM1Mjky.XaIJNg.So6kioHFPKjOvmuts-ykfccekFk')
